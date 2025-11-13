@@ -3,8 +3,9 @@
 
 ## Данный проект подразумевает создание простого вэб-приложения на основе Servlet с дальнейшим применнием фреймворков, например Spring.    
 
-<img width="895" height="879" alt="screen_1" src="https://github.com/user-attachments/assets/86d4b752-d202-47b0-b1d8-b24e66cb75e5" />
+<img width="813" height="847" alt="screen_1" src="https://github.com/user-attachments/assets/d42061d0-c7b1-41d3-8b51-5885b342caa4" />
 
 # В данный момент реализовано:
 
 - Основная часть (база), которая включает полноценную работоспособность приложения
+
