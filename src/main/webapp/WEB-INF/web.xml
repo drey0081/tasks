@@ -4,7 +4,7 @@
          xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_6_0.xsd"
          version="6.0">
 
-    <display-name>To-Do List Pure Java</display-name>
+    <display-name>Задачник</display-name>
 
     <session-config>
         <session-timeout>30</session-timeout>

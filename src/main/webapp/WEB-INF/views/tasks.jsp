@@ -29,8 +29,8 @@
 <body>
 <div class="container">
     <header>
-        <h1>📝 To-Do List на чистой Java</h1>
-        <p>Servlets + JSP - Без JavaScript и JSTL!</p>
+        <h1>📝 Задачник </h1>
+        <p> Теперь ты сможешь все спланировать и ни о чем не забыть </p>
     </header>
 
     <!-- Сообщения -->
@@ -140,7 +140,7 @@
     <footer class="tech-info">
         <hr>
         <p><strong>Технологии:</strong> Java Servlets, JSP, HTML, CSS</p>
-        <p><strong>Особенность:</strong> Без JavaScript, без JSTL, без интернета</p>
+        <p><strong>Особенность:</strong> Без фреймворков</p>
     </footer>
 </div>
 </body>
